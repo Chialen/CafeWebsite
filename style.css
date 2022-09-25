@@ -8,7 +8,7 @@ html {
 body{
     font-family:"Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.7;
-    color: rgb(41,36,33);  
+    color: rgb(137, 119, 109);  
 }
 a{
     text-decoration: none;
@@ -24,6 +24,20 @@ img {
 }
 
 /* 大型背景影像 */
+
+.page-title{
+
+    color: rgb(195, 176, 168); 
+}
+
+.button{
+    color: rgb(236, 236, 236);
+}
+
+.button-header{
+    color: rgb(236, 236, 236);
+}
+
 
 .big-bg {
     background-size: cover;
@@ -69,6 +83,8 @@ iframe{
     display: flex;
     justify-content: space-between;
 }
+
+
 
 .logo {
     width:350px;
